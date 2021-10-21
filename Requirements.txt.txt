@@ -1,0 +1,10 @@
+								README
+
+
+Steps to Execute Code: 1. Install required packages (Numpy, Pandas, Datetime)
+		       2. Run main.py file 
+		       3. Results are generated in output file named Results.csv
+
+
+main.py Contains the code.
+Results.csv contains the result.
